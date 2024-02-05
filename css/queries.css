@@ -40,22 +40,6 @@
     font-size: 4.4rem;
   }
 
-  .btn-nav-click {
-    width: 7.4rem;
-    height: 7.4rem;
-  }
-
-  .hero-link:link,
-  .hero-link:visited {
-    padding: 2rem 6.4rem;
-    font-size: 2.4rem;
-  }
-
-  .hero-img-link:link,
-  .hero-img-link:visited {
-    padding: 2rem 4rem;
-    font-size: 2rem;
-  }
 
   .about-text {
     grid-row: 1;
@@ -122,18 +106,6 @@
 
   .heading-h3 {
     font-size: 3.6rem;
-  }
-
-  .hero-link:link,
-  .hero-link:visited {
-    padding: 3rem 4.4rem;
-    font-size: 2.4rem;
-  }
-
-  .hero-img-link:link,
-  .hero-img-link:visited {
-    padding: 2rem 4rem;
-    font-size: 2rem;
   }
 
   .section-port {
